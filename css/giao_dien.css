@@ -1,0 +1,45 @@
+<?php include("chuc_nang/dieu_huong.php");?><?php include("chuc_nang/dieu_huong.php");?><?php include("chuc_nang/dieu_huong.php");?><?php include("chuc_nang/dieu_huong.php");?><?php include("chuc_nang/dieu_huong.php");?><?php include("chuc_nang/dieu_huong.php");?> 	a
+{
+	text-decoration: none;
+}
+body{
+	color: rgba(106, 164, 197, 0.664);
+}
+div.menu_ngang a 
+{
+	border-left: outset;
+	background-color: antiquewhite;
+	color:rgba(106, 164, 197, 0.664);
+	margin-left: 10px;
+	margin-right: 10px;
+	text-decoration: none;
+	font-size: 20px;
+}
+div.menu_ngang a: hover
+{
+	color: red;
+}
+
+div.menu_doc a 
+{
+	border-bottom: outset;
+	color:blue;
+	text-decoration: none;
+	display: block;
+}
+div.menu_doc a: hover
+{
+	color: red
+}
+div.phan_trang a 
+{
+	font-size: 36px;
+	margin-left: 5px;
+	margin-right: 5px;
+	text-decoration: none;
+	color: blue;
+}
+div.phan_trang a: hover 
+{
+	color: red
+}
